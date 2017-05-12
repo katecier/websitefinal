@@ -6,7 +6,8 @@ The final project was more fun to do because of the freedom we were given in des
 
 I decided I liked the feel of the hero and parallex elements we learned about so I decided to keep sort of the same basic model as last week.  I made a travel blog site, and wanted the main focus to be on pictures, so hero worked well in displaying them.
 
-![Image](css/images/sketch.jpg)
+![Image](css/images/sketch.png)
+
 
 I encountered some problems creatig a new repository on github because I wan't able to get source tree to connect to it as the master.  Eventually I was able to do it manually.
 
@@ -14,4 +15,4 @@ Because I used a similar design to my last projct, I was able to use the same RW
 
 Content wise, I created four tabs to seperate the site and each would be under a title displayed over a scrolling parallex photo. I chose to make one of the photo's height short to act as simply a seperation.
 
-I could use this site to present my pictures to anyone. 
+I could use this site to present my pictures to anyone.
