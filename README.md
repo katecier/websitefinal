@@ -13,3 +13,5 @@ I encountered some problems creatig a new repository on github because I wan't a
 Because I used a similar design to my last projct, I was able to use the same RWD elements. I also added a feature where you scroll over the photos and it gives a description.
 
 Content wise, I created four tabs to seperate the site and each would be under a title displayed over a scrolling parallex photo. I chose to make one of the photo's height short to act as simply a seperation.
+
+I could use this site to present my pictures to anyone. 
