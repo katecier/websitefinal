@@ -1,4 +1,4 @@
-#Summary
+# Summary
 
 The final project was more fun to do because of the freedom we were given in designing the site. I enjoyed picking out the fonts and color schemes. I got my basic idea for fonts from an online example but decided to change the serif a little to make it more clean and professional looking in the body.
 
